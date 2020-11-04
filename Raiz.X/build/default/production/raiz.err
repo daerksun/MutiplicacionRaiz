@@ -1,0 +1,7 @@
+Message[301] C:\PROGRAM FILES (X86)\MICROCHIP\MPLABX\V5.35\MPASMX\P16F628A.INC 34 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
+Message[302] C:\USERS\YO\MPLABXPROJECTS\RAIZ.X\RAIZ.ASM 23 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\YO\MPLABXPROJECTS\RAIZ.X\RAIZ.ASM 25 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\YO\MPLABXPROJECTS\RAIZ.X\RAIZ.ASM 70 : Found label after column 1. (MULTI)
+Message[305] C:\USERS\YO\MPLABXPROJECTS\RAIZ.X\RAIZ.ASM 72 : Using default destination of 1 (file).
+Warning[207] C:\USERS\YO\MPLABXPROJECTS\RAIZ.X\RAIZ.ASM 100 : Found label after column 1. (FINAL)
+Warning[205] C:\USERS\YO\MPLABXPROJECTS\RAIZ.X\RAIZ.ASM 104 : Found directive in column 1. (END)
